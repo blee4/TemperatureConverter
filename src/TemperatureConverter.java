@@ -23,5 +23,10 @@ public class TemperatureConverter {
             fahrenheit = (val * 9/5) + 32;
             System.out.printf("%dC is %fF.\n", val, fahrenheit);
         }
+        else {
+            System.out.println ("Illegal first argument");
+            System.out.println ("Usage: TemperatureConverter <-f/-c> <temp>");
+            System.exit(0);
+        }
     }
 }
