@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50345e62-c794-49d3-bb12-203ee563ff66" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TemperatureConverter.java" afterPath="$PROJECT_DIR$/src/TemperatureConverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TemperatureConverter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +32,8 @@
       <file leaf-file-name="TemperatureConverter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TemperatureConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2752941" vertical-offset="118" max-vertical-offset="765">
-              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.7411765" vertical-offset="0" max-vertical-offset="780">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -497,12 +498,12 @@
       <workItem from="1422920670642" duration="2652000" />
       <workItem from="1422935853460" duration="131000" />
       <workItem from="1422935990019" duration="75000" />
-      <workItem from="1422936136381" duration="5055000" />
+      <workItem from="1422936136381" duration="5421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7957000" />
+    <option name="totallyTimeSpent" value="8323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="45" width="1400" height="767" extended-state="0" />
@@ -583,8 +584,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TemperatureConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2752941" vertical-offset="118" max-vertical-offset="765">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.7411765" vertical-offset="0" max-vertical-offset="780">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding />
         </state>
       </provider>
