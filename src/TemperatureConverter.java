@@ -8,15 +8,15 @@ public class TemperatureConverter {
             // Conversion from Fahrenheit to Celsius
             secondArgCheck (args);
             int val = Integer.parseInt(args[1]);
-            double celsius = (val - 32) * 5 / 9;
-            System.out.printf("%d F is %f C.\n", val, celsius);
+            double celsius = ((double)val - 32) * 5 / 9;
+            System.out.println(val + " F is " + celsius + " C");
         }
         else if (args[0].equals("-c")) {
             // Conversion to Celsius from Fahrenheit
             secondArgCheck (args);
             int val = Integer.parseInt(args[1]);
-            double fahrenheit = (val * 9 / 5) + 32;
-            System.out.printf("%d C is %f F.\n", val, fahrenheit);
+            double fahrenheit = ((double)val * 9 / 5) + 32;
+            System.out.println(val + " C is " + fahrenheit + " F");
         }
         else {
             // Checking the first argument
